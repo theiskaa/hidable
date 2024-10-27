@@ -1,9 +1,3 @@
-//
-// Copyright 2021-2022 present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
@@ -58,7 +52,7 @@ typedef HidableVisibility = double Function(
 
 /// A custom wrapper for scroll controller.
 ///
-/// Implements the main listener mehtod for [ScrollController].
+/// Implements the main listener method for [ScrollController].
 /// And the [sizeNotifier] for providing/updating the hideable status.
 class HidableController {
   ScrollController scrollController;

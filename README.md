@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" src="https://user-images.githubusercontent.com/59066341/140976777-712cd333-9f82-4f92-8e03-33cb93f18650.png" alt="Package Logo">
+ <img width="400" src="https://user-images.githubusercontent.com/59066341/140976777-712cd333-9f82-4f92-8e03-33cb93f18650.png" alt="Package Logo">
  <br>
  <a href="https://pub.dev/packages/hidable">
   <img src="https://img.shields.io/pub/v/hidable?color=blue" alt="pub version" />
@@ -7,11 +7,6 @@
  <a href="https://github.com/theiskaa/hidable/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/License-Apache-red.svg" alt="License: MIT"/>
  </a>
- <br>
-  <a href="https://discord.gg/CtStkzrHV3">
-    <img src="https://img.shields.io/discord/914899238415130714?color=blue&label=Insolite Community&logo=discord"
-      alt="Insolite Community Discord Invite Link" />
-  </a>
 </p>
 
 ## Installing

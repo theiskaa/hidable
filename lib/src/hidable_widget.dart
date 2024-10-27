@@ -1,9 +1,3 @@
-//
-// Copyright 2021-2022 present Insolite. All rights reserved.
-// Use of this source code is governed by Apache 2.0 license
-// that can be found in the LICENSE file.
-//
-
 import 'package:flutter/material.dart';
 import 'package:hidable/src/hidable_controller.dart';
 
@@ -15,7 +9,7 @@ import 'package:hidable/src/hidable_controller.dart';
 /// Note: The scroll controller provided to [Hidable] must also be given to your scrollable widget,
 /// such as [ListView], [GridView], etc.
 ///
-/// For more information, refer to the [documentation](https://github.com/insolite-dev/hidable#readme).
+/// For more information, refer to the [documentation](https://github.com/theiskaa/hidable#readme).
 class Hidable extends StatelessWidget implements PreferredSizeWidget {
   /// The child widget to which you want to add scroll-to-hide effect.
   ///

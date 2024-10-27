@@ -1,6 +1,6 @@
 # v1.0.6 - 12/10/2023
 
-- Resolved [#26](https://github.com/insolite-dev/hidable/issues/26)
+- Resolved [#26](https://github.com/theiskaa/hidable/issues/26)
 - Added `deltaFactor` field which controls the speed of hiding/appearing speed of hidable.
 - Added `visibility` field which makes it able for user to provide custom scrolling algorithm
   instead of using default.
@@ -9,26 +9,26 @@ Huge thanks for feature request to [@radibobovich](https://github.com/radibobovi
 
 # v1.0.5 - 25/08/2023
 
-- Resolved [#21](https://github.com/insolite-dev/hidable/issues/21)
+- Resolved [#21](https://github.com/theiskaa/hidable/issues/21)
 - Deprecate the [wOpacity] property and add new [enableOpacityAnimation]
   instead.
 
 # v1.0.4 - 14/05/2023
 
 - Migrated to Flutter 3.10 and Dart 3
-  - Resolved [#17](https://github.com/insolite-dev/hidable/issues/17)
+  - Resolved [#17](https://github.com/theiskaa/hidable/issues/17)
 
 # v1.0.3 - 03/09/2022
 
-- Resolved [#10](https://github.com/insolite-dev/hidable/issues/10)
+- Resolved [#10](https://github.com/theiskaa/hidable/issues/10)
 
 # v1.0.2 - 18/01/2022
 
-- Resolved [#6](https://github.com/insolite-dev/hidable/issues/6)
+- Resolved [#6](https://github.com/theiskaa/hidable/issues/6)
 
 # v1.0.1 - 10/11/2021
 
-- Resolved: [#3](https://github.com/insolite-dev/hidable/issues/3) and [#4](https://github.com/insolite-dev/hidable/issues/4)
+- Resolved: [#3](https://github.com/theiskaa/hidable/issues/3) and [#4](https://github.com/theiskaa/hidable/issues/4)
 - Updated documentation comments and pub points of package.
 
 # v1.0.0 - 09/11/2021
