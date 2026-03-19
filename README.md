@@ -1,17 +1,22 @@
-<p align="center">
- <img width="400" src="https://user-images.githubusercontent.com/59066341/140976777-712cd333-9f82-4f92-8e03-33cb93f18650.png" alt="Package Logo">
- <br>
+# hidable
  <a href="https://pub.dev/packages/hidable">
   <img src="https://img.shields.io/pub/v/hidable?color=blue" alt="pub version" />
  </a>
  <a href="https://github.com/theiskaa/hidable/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/License-Apache-red.svg" alt="License: MIT"/>
  </a>
-</p>
 
-## Installing
-**See the official installation guidelines at [hidable/install](https://pub.dev/packages/hidable/install)**
-## Usage & Overview
+## Use this package as a library
+
+Run this command with Flutter:
+```
+ $ flutter pub add hidable
+```
+This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+```yml
+dependencies:
+  hidable: ^1.0.6
+```
 
 <img width="300" src="https://user-images.githubusercontent.com/59066341/188278709-d9879bfe-b473-4b2c-b53b-6fbe97d35ad3.gif" alt="Package Example Overview">
 
